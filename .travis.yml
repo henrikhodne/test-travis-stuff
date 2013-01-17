@@ -1,0 +1,3 @@
+language: node_js
+env:
+  - secure: "kndDcHntF5rsbSlQHhtpX9p724BOd1l+pbrO75dEKaUMTPGz9sSfyY1ebmpe\npnPoxw8rfFAIhtNBuR8Q0UEor5I6glT1+mt74na6cy7IqKFIIjWEFFGgSDPB\nF4YwtU7FVcZa4mlKEE8d71G/xybp7QmXdFtW4jxmedcZDNGoMOk="
