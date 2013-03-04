@@ -1,3 +1,5 @@
-language: node_js
-env:
-  - secure: "kndDcHntF5rsbSlQHhtpX9p724BOd1l+pbrO75dEKaUMTPGz9sSfyY1ebmpe\npnPoxw8rfFAIhtNBuR8Q0UEor5I6glT1+mt74na6cy7IqKFIIjWEFFGgSDPB\nF4YwtU7FVcZa4mlKEE8d71G/xybp7QmXdFtW4jxmedcZDNGoMOk="
+language: ruby
+script: true
+notifications:
+  email:
+    - secure: "QJYfBLlA5GEpbDjvR1mR+g02y820If7pLVSvceA3UVZp0z3+bJiffYlkDa2i\nVmOGdjcuzglYsKMj4y4tYdJdemoSbVGg7RuRwhmHCqzg+2xqiOhkiFXS/MT+\nukgafH8ONenJ6dGWha/BtuyLbZDlw+czM57pCvwyWWkswZlNqDM="
